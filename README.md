@@ -23,4 +23,4 @@ _**Leo Kukharau**_, _**Roman Sydoruk**_
 
 [Link to code](./text-classifier.ipynb)
 
-[Link to PR]()
+[Link to PR](https://github.com/LeoKuhorev/text-classifier/pull/3)
